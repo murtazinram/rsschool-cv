@@ -37,3 +37,6 @@ HTML, CSS, a little JavaScript, Git & GitHub, Java, SQL.
 ```
 ### Experience
 - Train Java skills on Java EPAM INNER course.
+
+### Education
+- Belarusian State University of Transport
