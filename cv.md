@@ -7,3 +7,31 @@
 
 ### Summary
 My main aim is to get a job as a java developer. This is important to me because programming brings me enjoyment. I try to learn as much knowledge as possible.
+
+### Skills
+HTML, CSS, a little JavaScript, Git & GitHub, Java, SQL.
+
+### Latest code example
+```javascript
+    function spinWords(string) {
+        let words = string.split(' ');
+        var out = [];
+        for (let item of words) {
+            if (item.length >= 5) {
+                out.push(item.split("").reverse().join(""));
+            } else {
+                out.push(item);
+            }
+        }
+        return out.toString().split(",").join(" ");
+    }  
+
+    var isAnagram = function(test, original) {
+        test = test.toUpperCase();
+        original = original.toUpperCase()
+        test = test.split('').sort();
+        original = original.split('').sort()
+      
+        return JSON.stringify(test) === JSON.stringify(original)
+    };
+```
