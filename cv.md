@@ -40,3 +40,6 @@ HTML, CSS, a little JavaScript, Git & GitHub, Java, SQL.
 
 ### Education
 - Belarusian State University of Transport
+
+### English
+Pre-intermediate
