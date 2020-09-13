@@ -35,3 +35,5 @@ HTML, CSS, a little JavaScript, Git & GitHub, Java, SQL.
         return JSON.stringify(test) === JSON.stringify(original)
     };
 ```
+### Experience
+- Train Java skills on Java EPAM INNER course.
