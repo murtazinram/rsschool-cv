@@ -13,3 +13,16 @@ main{
 section{
     margin: 0;
 }
+article{
+    margin: 0;
+}
+.info{
+    float: left;
+    margin-left: 60px;
+}
+.photo{
+    float: left;
+}
+.contacts{
+    height: 240px;
+}
