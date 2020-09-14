@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+main{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 5vw;
+    background: #e0dfe5;
+    font-family: 'Fjalla One', sans-serif;
+    min-height: 100vh
+}
+section{
+    margin: 0;
+}
