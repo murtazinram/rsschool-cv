@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background: #2d251a;
+}
+main{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 5vw;
+    background: #ffffff;
+    font-family: 'Fjalla One', sans-serif;
+    min-height: 100vh;
+    line-height: 1.5;
+    font-style: normal;
+}
+section{
+    margin: 0;
+}
+article{
+    margin: 0;
+}
+.info{
+    float: left;
+    margin-left: 60px;
+}
+.photo{
+    float: left;
+}
+.contacts{
+    height: 240px;
+}
+p{
+    font-weight: revert;
+}
+a{
+    text-decoration: none;
+}
