@@ -8,7 +8,9 @@ main{
     padding: 5vw;
     background: #ffffff;
     font-family: 'Fjalla One', sans-serif;
-    min-height: 100vh
+    min-height: 100vh;
+    line-height: 1.5;
+    font-style: normal;
 }
 section{
     margin: 0;
@@ -25,4 +27,10 @@ article{
 }
 .contacts{
     height: 240px;
+}
+p{
+    font-weight: revert;
+}
+a{
+    text-decoration: none;
 }
